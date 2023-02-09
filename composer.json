@@ -1,0 +1,17 @@
+{
+  "name": "maxim/htdocs",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "maxim",
+      "email": "maxpavlikov99@gmail.com"
+    }
+  ],
+  "require": {
+    "ext-mysqli": "*"
+  }
+}
